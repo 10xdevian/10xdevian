@@ -56,6 +56,7 @@
 
 - Real-time collaborative whiteboard (WebSockets + Redis)
 - Role-based access & scalable infra (Docker + AWS)
+- 
 
 ---
 
